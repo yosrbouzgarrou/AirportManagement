@@ -1,0 +1,60 @@
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\asus\source\repos\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Architecture des SI1\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Administrator\Downloads\AirportManagement-4SIM2 (1)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4SIM2\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Administrator\Desktop\4sim\AirportManagement-4SIM2 (2)\AirportManagement-4Sleam2\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll

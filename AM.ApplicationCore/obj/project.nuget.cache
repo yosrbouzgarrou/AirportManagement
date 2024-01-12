@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xh5aL3k0O6YgvTkEVkqzEoAW7xhgDuqGvLt7YEz4pQvubigK/2Pp8yOmBEjibpkNfI3409cpq/90MjJUs+3xWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PLANETAMIR\\Downloads\\AirportManagement-4Sleam2-final\\AirportManagement-4Sleam2\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PLANETAMIR\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
